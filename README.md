@@ -53,7 +53,7 @@
 <img alt="ER-Diagram" src="https://user-images.githubusercontent.com/101395494/216134703-e7cefef6-187f-44df-9fd4-52aedc66d24b.png">
 
 # Swagger-ui
-![Swagger-ui](https://github.com/user-attachments/assets/59f74a35-d498-4982-9ac4-e3be2d18a8a3)
+![Swagger-ui](https://github.com/user-attachments/assets/f95d45ad-95b5-47b3-a851-de9feb1ca0d7)
 
 # API Controllers
 <img width="947" alt="Auth_Controller" src="https://user-images.githubusercontent.com/101395494/216388749-4f15d968-ae52-48a9-9c08-0b72d608084a.png">
